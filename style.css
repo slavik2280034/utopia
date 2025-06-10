@@ -6,7 +6,7 @@ body {
 }
 
 .top-bar {
-  background-color: #3c873a;
+  background-color: #0000ff;
   padding: 15px;
   text-align: center;
 }
@@ -52,7 +52,7 @@ body {
 }
 
 .btn.primary {
-  background-color: #3c873a;
+  background-color: #0000ff;
   color: white;
 }
 
